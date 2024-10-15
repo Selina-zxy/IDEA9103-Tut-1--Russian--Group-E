@@ -3,7 +3,7 @@
 ### Introduction
 The artwork that we chose is Apple Tree by Anwar Jalal Shemza.
 Apple Tree was created in 1962, which is a part of exploration of organic forms. In Apple Tree, Anwar uses repeated circular and linear patterns to represent the structure of tree, which created a sense of balance and rhythm. The same characteristics also shown in other artworks by Anwar such as: 
-![Composition in Red and Green, 1963.](Images\22224-842-orig_orig.jpeg)
+![Composition in Red and Green, 1963.](Images/22224-842-orig_orig.jpeg)
 Composition in Red and Green, 1963.
 Meem Two 1967.
 Apple Trees, 1970.
