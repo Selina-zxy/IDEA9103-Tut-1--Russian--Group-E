@@ -21,7 +21,9 @@ Moreover, the nature elements such as trees has a procedure of grow up, which gi
 In the coding part, I plan to create a drawing class which contain the single element in structure of Apple Tree that created by draw function such as: drawCircles() or drawLines().
 These circles will be separated in several classes which includes Circle in trunk structure, Circle in branch structure and Circle and rectangle in bottom structure. Then use for loop to repeat the simple patterns in different classes to organize the main structure of artwork. Finally use the coding in WEEK9 lecture and tutorial such as easing and translate to creating animate for our work. The animate could be a grow process of the Apple Tree, which can be created by using translate and scale functions. The animate can also be the process of apple fall from the tree, which use rotate and translate functions.
 
-[Precedents1](https://openprocessing.org/sketch/2225948)
-[Precedents2](https://openprocessing.org/sketch/138954)
-[Image and artworks information](https://www.anwarshemza.com/publiccollections1.html)
+[Link to Precedents1](https://openprocessing.org/sketch/2225948)
+
+[Link to Precedents2](https://openprocessing.org/sketch/138954)
+
+[Link to Image and artworks information](https://www.anwarshemza.com/publiccollections1.html)
 
